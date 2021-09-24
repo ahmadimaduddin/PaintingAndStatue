@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PaintingAndStatue</string>
+    <string name="title">Title</string>
+    <string name="desc">Description</string>
+    <string name="medium">Medium</string>
+    <string name="title_home">Home</string>
+    <string name="title_painting">Painting</string>
+    <string name="title_statue">Statue</string>
+    <string name="gacha">Get me new painting!</string>
+</resources>
